@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithm
-Add one of the data structures and algorithms in any preferred language.
+Add answer to any of the dsa questions and pull it to this repo.
