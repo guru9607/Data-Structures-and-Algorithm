@@ -57,11 +57,12 @@ public class A5_BubbleSort {
         bubbleSortRecursive(arr, n-1);
     }
 
-
     public static void main(String[] args) {
         int[] arr = {2,3,1,4,5};
 
         bubbleSortRecursive(arr, 5);
         System.out.println(Arrays.toString(arr));
+
+
     }
 }
